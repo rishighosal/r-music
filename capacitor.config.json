@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "R-Music",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

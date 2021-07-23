@@ -1,0 +1,8 @@
+{
+  "name": "R-Music",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "197b83c6"
+}
